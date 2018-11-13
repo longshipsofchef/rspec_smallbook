@@ -1,6 +1,6 @@
 name 'smallbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'longshipsofchef'
+maintainer_email 'longshipsofchef@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures smallbook'
 long_description 'Installs/Configures smallbook'
